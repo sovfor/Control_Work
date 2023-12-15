@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Работа к аттестации/1.0.0": {
+        "runtime": {
+          "Работа к аттестации.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Работа к аттестации/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
